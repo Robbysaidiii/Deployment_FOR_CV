@@ -1,4 +1,4 @@
-# Deployment_CV
+# Deployment_Cifar-10 Image Classification
 CIC
 Cifar-10 Image Classification
 
